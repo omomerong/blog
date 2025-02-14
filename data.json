@@ -1,0 +1,12 @@
+{
+  "user": {
+    "index": 1,
+    "userID": "제제",
+    "friendList": [2],
+    "stats": {
+      "streak": 0,
+      "freeze": 0,
+      "combo": 0
+    }
+  }
+}
